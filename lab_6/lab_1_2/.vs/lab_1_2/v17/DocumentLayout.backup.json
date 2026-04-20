@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|c:\\users\\max\\desktop\\cs\\lab_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|c:\\users\\max\\desktop\\cs\\lab_1_2\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|solutionrelative:input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|c:\\users\\max\\desktop\\cs\\lab_1_2\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7BCBBC-E0AB-4395-A06E-4784D79718EF}|lab_1_2.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Input.cs",
+              "RelativeDocumentMoniker": "Input.cs",
+              "ToolTip": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Input.cs",
+              "RelativeToolTip": "Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:54:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Time.cs",
+              "RelativeDocumentMoniker": "Time.cs",
+              "ToolTip": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Time.cs",
+              "RelativeToolTip": "Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:32:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Max\\Desktop\\cs\\lab_1_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:21:14.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
